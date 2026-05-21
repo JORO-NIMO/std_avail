@@ -48,7 +48,7 @@ function App() {
             <li>FCIS - FACULTY OF COMPUTING AND INFORMATICS</li>
             <li>MUST - MUST</li>
             <li>Campus: KIHUMURO</li>
-            <li>Registered On: MON 27-OCT-2025 01:42 PM</li>
+            <li>Registered On: MON 18-MAY-2026 01:42 PM</li>
           </ul>
         </div>
       </div>
