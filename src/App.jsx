@@ -31,14 +31,13 @@ function App() {
         <div className="section-title">COURSE UNITS</div>
 
         <div className="course-grid">
-          <div className="label">(SWE2104) DATA STRUCTURE AND ALGORITHMS</div><div className="value">normal</div>
-          <div className="label">(SWE2105) GEOGRAPHIC INFORMATION SYSTEMS</div><div className="value">normal</div>
-          <div className="label">(SWE2102) REQUIREMENTS ENGINEERING</div><div className="value">normal</div>
-          <div className="label">(SWE2107) SYSTEMS ANALYSIS AND DESIGN</div><div className="value">normal</div>
-          <div className="label">(DVS2105) POLITICAL ECONOMY OF UGANDA</div><div className="value">normal</div>
-          <div className="label">(SWE2103) PROBABILITY AND STATISTICS</div><div className="value">normal</div>
-          <div className="label">(SWE2106) INTERNET TECHNOLOGY AND WEB DESIGN</div><div className="value">normal</div>
-          <div className="label">(SWE2101) OBJECT ORIENTED PROGRAMMING II</div><div className="value">normal</div>
+          <div className="label">(DVS2201) CITIZENRY, PROFESSIONALISM, GLOBALIZATION AND ENTREPRENEURSHIP</div><div className="value">normal</div>
+          <div className="label">(SWE2203) SOFTWARE ARCHITECTURE AND DESIGN</div><div className="value">normal</div>
+          <div className="label">(SWE2206) DISTRIBUTED COMPUTING</div><div className="value">normal</div>
+          <div className="label">(SWE2201) NUMERICAL ANALYSIS</div><div className="value">normal</div>
+          <div className="label">(SWE2204) SOFTWARE METRICS</div><div className="value">normal</div>
+          <div className="label">(SWE2205) USER INTERFACE DESIGN AND DEVELOPMENT</div><div className="value">normal</div>
+          <div className="label">(SWE2202) DATA COMMUNICATION TECHNOLOGY</div><div className="value">normal</div>
         </div>
 
         <div className="details-card">
